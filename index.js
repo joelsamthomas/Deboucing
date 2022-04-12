@@ -22,7 +22,7 @@ appDiv.innerHTML =
 `<div>
 <label>Debounce Check Console :</label>
 <input id =  3rd></input>
-<h1>Calls API "Getting Data...!!" only once after 2 seconds after typing on console</h1>
+<h1>Calls API "Getting Data...!!" only once after 2 seconds after typing on Input. See  console</h1>
 </div>`;
 
 
